@@ -83,12 +83,12 @@
     <repository>
         <id>central</id>
         <name>MW617-releases</name>
-        <url>https://github.com/jcc-lp-1234/monappli</url>
+        <url>http://localhost:8081/artifactory/mv.local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>MW617-snapshots</name>
-        <url>https://github.com/jcc-lp-1234/monappli</url>
+        <url>http://localhost:8081/artifactory/mv.local</url>
     </snapshotRepository>
   </distributionManagement>
 <modules>
